@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/edu.uci.ics.story.stitch.StitchTracker_feature_0.0.1.jar" id="edu.uci.ics.story.stitch.StitchTracker_feature" version="0.0.1">
+      <category name="STITCH Tracker"/>
+   </feature>
+   <category-def name="STITCH Tracker" label="STITCH Tracker Update Site"/>
+</site>
