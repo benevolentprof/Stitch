@@ -1,0 +1,9 @@
+This repository contains a website for installing an Eclipse plugin 
+for Stitch, a tool for creating and tracking concern maps.
+
+A paper on this was submitted (but not accepted) to OOPSLA 2008 
+and can be found in root directory in OOPSLA2008-zelda.pdf.
+
+This tool went through a series of names, depending on the kind of 
+concern maps that were created and the purpose they were used for. 
+The names included Stitch, Zelda, and Cayley.
